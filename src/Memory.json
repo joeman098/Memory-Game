@@ -1,0 +1,43 @@
+[
+{
+    "id": 0,
+    "image" :"./images/if_Adventure_Map_2913095.png",
+    "clicked" : false
+},
+
+{
+    "id":1,
+    "image":"./images/if_Armor_2913124.png",
+    "clicked" : false
+},
+{
+    "id": 2,
+    "image":"./images/if_Bow_Arrow_2913123.png",
+    "clicked" : false
+},
+{
+    "id": 3,
+    "image":"./images/if_Castle_2913096.png",
+    "clicked" : false
+},
+{
+    "id": 4,
+    "image":"./images/if_Centaur_2913122.png",
+    "clicked" : false
+},
+{
+    "id": 5,
+    "image":"./images/if_Destructive_Magic_2913121.png",
+    "clicked" : false
+},
+{
+    "id": 6,
+    "image":"./images/if_Dragon_Egg_2913098.png",
+    "clicked" : false
+},
+{
+    "id": 7,
+    "image":"./images/if_Elf_2913120.png",
+    "clicked" : false
+}
+]

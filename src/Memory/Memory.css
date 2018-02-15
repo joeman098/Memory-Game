@@ -1,0 +1,9 @@
+.memoryGame{
+    display: inline-grid;
+    background: rgb(140, 166, 223);
+    padding: 10px;
+    margin: 10px;
+    border: solid 4px lightcyan ;
+    border-radius: 20px;
+    box-shadow: 2px 5px 7px darkcyan;
+}
